@@ -1,0 +1,38 @@
+set selection-clipboard clipboard
+
+set font                            "Iosevka 11"
+set default-fg                      "#D3D7CF"
+set default-bg                      "#051018"
+
+set highlight-color                 "#051018"
+set highlight-fg                    "#E07983"
+set highlight-active-color          "#E07983"
+set highlight-transparency          0.8
+
+set page-padding                    5
+
+set render-loading-bg               "#051018"
+set render-loading-fg               "#D3D7CF"
+
+set index-fg                        "#D3D7CF"
+set index-bg                        "#051018"
+set index-active-fg                 "#051018"
+set index-active-bg                 "#D3D7CF"
+
+set completion-bg                   "#051018"
+set completion-fg                   "#D3D7CF"
+set completion-group-bg             "#051018"
+set completion-group-fg             "#D3D7CF"
+set completion-highlight-bg         "#051018"
+set completion-highlight-fg         "#D3D7CF"
+
+set notification-error-bg           "#E07983"
+set notification-error-fg           "#051018"
+set notification-warning-bg         "#051018"
+set notification-warning-fg         "#E07983"
+
+set statusbar-bg                    "#a4b9ef"
+set statusbar-fg                    "#051018"
+
+set inputbar-bg                     "#051018"
+set inputbar-fg                     "#D3D7CF"
