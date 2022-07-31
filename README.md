@@ -9,4 +9,4 @@ My linux dotfiles with the ayu-dark colorscheme.
 
 **Wallpaper:** [Ayu-navi](https://pixelfed.social/storage/m/_v2/387725661882598311/7a6475c83-a44db4/j4jzABQEUhjc/mdIl7zSneMhIokpUZxAkYN5C4Do47ZTM0FK8Wj2D.png) by [me](https://github.com/thewillyan).
 
-**WM:** [DMM custom](https://github.com/thewillyan/dwm-ayu-dark).
+**WM:** [DWM custom](https://github.com/thewillyan/dwm-ayu-dark).
